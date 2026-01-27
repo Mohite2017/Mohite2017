@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="profile.png" width="170" style="border-radius:50%; border:3px solid #00ADB5;" />
+  <img src="IMG_20241215_130832.jpg" width="170" style="border-radius:50%; border:3px solid #00ADB5;" />
 </p>
 
 ---
