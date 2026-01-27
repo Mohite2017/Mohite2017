@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="profile.png" width="180" style="border-radius:50%;" />
+  <img src="IMG_20241215_130832.jpg" width="150" style="border-radius:50%;" />
 </p>
-
 <h1 align="center">Hi there 👋, I'm Mohit Meshram</h1>
 <h3 align="center">Junior DevOps / Cloud Engineer | AWS | Automation</h3>
 
