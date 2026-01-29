@@ -10,9 +10,7 @@
 </p>
 
   <h3 align="center">
-<a href="https://git.io/typing-svg">
 <img src="font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Mohit+Meshram;DevOps+%7C+Cloud+Engineer;Welcome+to+my+GitHub+Profile+🚀" />
-</a>
 </h3>
 
 <p align="center" >
