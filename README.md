@@ -5,7 +5,12 @@
 </h3>
 
 <p align="center">
-<samp>
+<img 
+  align="right" 
+  src="https://raw.githubusercontent.com/Mohite2017/Mohite2017/main/IMG_20241215_130832.jpg" 
+  width="280"
+  style="border-radius:50%; border:4px solid #60F74D; box-shadow:0 0 20px #60F74D;"
+/>
 Hey 👋, My name is <em><b>Mohit Meshram</b></em> and I am a <b>DevOps ⚙️ Engineer</b> passionate about building scalable, reliable, and automated cloud infrastructure.
 <br/><br/>
 I specialize in <b>AWS, Kubernetes, CI/CD pipelines, Infrastructure as Code, and Monitoring</b>.
@@ -20,13 +25,6 @@ I constantly explore modern DevOps practices to optimize deployments, improve re
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohite2017&theme=algolia" />
 </a>
 </p>
-
-<img 
-  align="right" 
-  src="https://raw.githubusercontent.com/Mohite2017/Mohite2017/main/IMG_20241215_130832.jpg" 
-  width="280"
-  style="border-radius:50%; border:4px solid #60F74D; box-shadow:0 0 20px #60F74D;"
-/>
 ---
 
 ## ⚡ Skills & Tools
