@@ -1,3 +1,10 @@
+<p align="center">
+  <img 
+    src="https://raw.githubusercontent.com/Mohite2017/Mohite2017/main/IMG_20241215_130832.jpg"
+    width="220"
+    style="border-radius:50%; border:4px solid #60F74D; box-shadow:0 0 25px #60F74D;"
+  />
+</p>
 
   <h3 align="center">
 <a href="https://git.io/typing-svg">
