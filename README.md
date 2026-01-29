@@ -96,7 +96,7 @@
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=28&duration=3000&pause=800&color=60F74D&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🚀;You're+Awesome+💚" />
 </a>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CThere+I'm+Mohit+Meshram;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a>
 
 
 #### Thanks for visiting ❤️
