@@ -34,11 +34,11 @@ DevOps Engineer | Cloud | Automation
 ## ⚙️ DevOps Workflow (Real-Time Architecture)
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b9a4f3e-arch-diagram-placeholder" width="780"/>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900"/>
 </p>
 
 <p align="center">
-  <sub>Code → CI → Build → Test → Deploy → Monitor → Optimize</sub>
+  <sub>Live pipeline activity visualization</sub>
 </p>
 
 ---
