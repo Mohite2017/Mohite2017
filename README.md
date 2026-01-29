@@ -35,11 +35,7 @@
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="80"/>
 <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"/>
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="80"/>
-<img
-    src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif"
-    width="200"
-    alt="Developer working illustration"
-  />
+<img src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200"/>
 </p>
 
 ## 🥃 Monitoring Tools 
