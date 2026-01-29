@@ -1,5 +1,6 @@
+<p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi%2CThere+I'm+Mohit+Meshram;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a>
-
+</p>
 <p align="center">
   <img 
     src="https://raw.githubusercontent.com/Mohite2017/Mohite2017/main/IMG_20241215_130832.jpg"
