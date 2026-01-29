@@ -34,12 +34,10 @@
 <p align="left">
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="70"/>
-<img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" height="70"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="75"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="80"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif" height="80"/>
-<img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png" height="80"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="80"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120"/>
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="80"/>
