@@ -100,6 +100,7 @@
 </a>
 
 </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CThere+I'm+Mohit+Meshram;I+hope+you're+doing+well;Enjoy+your+time+%3A))](https://git.io/typing-svg)
 
 ---
 
