@@ -1,68 +1,103 @@
-<p align="center">
-  <img src="IMG_20241215_130832.jpg" width="180" style="border-radius:50%;" />
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <title>Mohit Meshram | DevOps Engineer</title>
 
-<h1 align="center">Hi there 👋, I'm Mohit Meshram</h1>
-<h3 align="center">Junior DevOps / Cloud Engineer | AWS | Automation</h3>
+    <!-- Font Awesome -->
+    <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Monitoring;Always+Learning+Cloud+Technologies" />
-</p>
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet"/>
+    <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet"/>
 
----
+    <!-- Local CSS (IMPORTANT: blob removed) -->
+    <link href="./style.css" rel="stylesheet" />
+    <link rel="shortcut icon" href="favicon.ico"/>
+</head>
 
-## 👨‍💻 About Me
+<body id="page-top">
 
-- 🎓 BCS Graduate | DevOps & Multicloud Trained  
-- ☁️ Hands-on experience with **AWS, Azure, GCP**
-- 🐳 Docker | Kubernetes | Microservices
-- ⚙️ CI/CD using **GitHub Actions & Jenkins**
-- 🏗 Infrastructure as Code with **Terraform**
-- 📊 Monitoring using **Prometheus & Grafana**
-- 🚀 Actively seeking **Junior DevOps / Cloud Engineer** roles
+<!-- Navigation -->
+<nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
+    <a class="navbar-brand js-scroll-trigger" href="#page-top">
+        <span class="d-block d-lg-none">Mohit Meshram</span>
+        <span class="d-none d-lg-block">
+            <img class="img-circle img-profile rounded-circle"
+                 src="https://avatars.githubusercontent.com/u/72268706?v=4"
+                 alt="Mohit Meshram"/>
+        </span>
+    </a>
 
----
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+            data-bs-target="#navbarResponsive">
+        <span class="navbar-toggler-icon"></span>
+    </button>
 
-## 🛠 Tech Stack & Skills
+    <div class="collapse navbar-collapse" id="navbarResponsive">
+        <ul class="navbar-nav">
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Experience</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#certifications">Certifications</a></li>
+            <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
+        </ul>
+    </div>
+</nav>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,git,github,githubactions,jenkins,nginx,python" />
-</p>
+<!-- Page Content -->
+<div class="container-fluid p-0">
 
----
+<!-- About -->
+<section class="resume-section" id="about">
+    <div class="resume-section-content">
+        <h1 class="mb-0">
+            Mohit <span class="text-primary">Meshram</span>
+        </h1>
 
-## 📊 GitHub Stats
+        <div class="subheading mb-5">
+            Hyderabad, India ·
+            <a href="mailto:mohitmeshram.dev@gmail.com">mohitmeshram.dev@gmail.com</a>
+        </div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohite2017&show_icons=true&theme=tokyonight" />
-</p>
+        <p class="lead mb-5">
+            DevOps Engineer passionate about automation, CI/CD, cloud-native architecture,
+            and scalable infrastructure using AWS, Kubernetes, and Terraform.
+        </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohite2017&theme=tokyonight" />
-</p>
+        <div class="social-icons">
+            <a class="social-icon" href="https://www.linkedin.com/in/mohit-meshram-devops/" target="_blank">
+                <i class="fab fa-linkedin-in"></i>
+            </a>
+            <a class="social-icon" href="https://github.com/Mohite2017" target="_blank">
+                <i class="fab fa-github"></i>
+            </a>
+        </div>
+    </div>
+</section>
 
----
+<hr class="m-0" />
 
-## 📈 Most Used Languages
+<!-- Skills -->
+<section class="resume-section" id="skills">
+    <div class="resume-section-content">
+        <h2 class="mb-5">Skills</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohite2017&layout=compact&theme=tokyonight" />
-</p>
+        <p>
+            <img src="https://skillicons.dev/icons?i=aws,kubernetes,terraform,jenkins,githubactions,docker,linux,python,grafana,prometheus&perline=8"/>
+        </p>
+    </div>
+</section>
 
----
+</div>
 
-## 🔗 Connect with Me
+<!-- Bootstrap JS -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohit-meshram-54b5ab378" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Mohit%20Meshram-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mohitmeshram2021@gmail.com">
-    <img src="https://img.shields.io/badge/Email-mohitmeshram2021@gmail.com-red?style=for-the-badge&logo=gmail" />
-  </a>
-</p>
+<!-- Local JS -->
+<script src="./script.js"></script>
 
----
-
-<h3 align="center">⭐ Thanks for visiting my GitHub profile!</h3>
-<p align="center">Show some ❤️ by starring repositories</p>
+</body>
+</html>
