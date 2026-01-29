@@ -1,4 +1,12 @@
 <h3 align="center">
+  <p align="center">
+<img 
+  align="right" 
+  src="https://raw.githubusercontent.com/Mohite2017/Mohite2017/main/IMG_20241215_130832.jpg" 
+  width="280"
+  style="border-radius:50%; border:4px solid #60F74D; box-shadow:0 0 20px #60F74D;"
+/>
+    
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Mohit+Meshram;DevOps+%7C+Cloud+Engineer;Welcome+to+my+GitHub+Profile+🚀" />
 </a>
