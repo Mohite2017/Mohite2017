@@ -20,8 +20,7 @@
 <a href="https://git.io/streak-stats">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Mohite2017&theme=algolia" />
 </a>
-</p>
-
+</p><img align='right' src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300">
 ## ⚡ Skills & Tools
 
 <p align="left">
