@@ -30,7 +30,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="75"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="80"/>
-<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif" height="80"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="80"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120"/>
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="80"/>
@@ -38,7 +37,7 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="80"/>
 <img
     src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif"
-    width="120"
+    width="200"
     alt="Developer working illustration"
   />
 </p>
