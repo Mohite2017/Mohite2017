@@ -1,111 +1,57 @@
-<!-- TOP BANNER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:00F7FF&height=180&section=header&text=Hi%20there,%20I'm%20Mohit%20Meshram&fontSize=36&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+⚙️ DevOps Workflow (Live Animated)
+<p align="center"> <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="480"/> </p> <p align="center"> <b>Code → CI → Build → Deploy → Monitor</b> </p>
+🧠 Continuous Integration (CI)
+<p align="center"> <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="520"/> </p>
 
-<h3 align="center">
-DevOps Engineer | Cloud | Automation
-</h3>
+GitHub Actions
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&pause=1200&color=00F7FF&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Monitoring;Building+Scalable+Cloud+Systems" />
-</p>
+Jenkins Pipelines
 
----
+Automated Tests
 
-## 👨‍💻 About Me
+Code Quality Checks
 
-- 🔭 Working on **real-world Cloud & DevOps projects**
-- ☁️ Strong in **AWS infrastructure & automation**
-- ⚙️ CI/CD using **GitHub Actions & Jenkins**
-- 📈 Observability with **Prometheus & Grafana**
-- 🚀 Focused on **scalability, reliability & performance**
+🐳 Build & Containerization
+<p align="center"> <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="420"/> </p>
 
----
+Docker Images
 
-## 🛠 Tech Stack
+Multi-stage Builds
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,git,github,githubactions,jenkins,nginx,python&theme=dark" />
-</p>
+Secure Image Registry
 
----
+Versioned Artifacts
 
-## ⚙️ DevOps Workflow (Real-Time Architecture)
+☸️ Deployment (Kubernetes)
+<p align="center"> <img src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif" width="460"/> </p>
 
-<p align="center">
-  <img src="devops-realtime.svg" width="1000"/>
-</p>
+Kubernetes Deployments
 
-<p align="center">
-  <sub>Real-time CI/CD pipeline with live data flow & monitoring heartbeat</sub>
-</p>
+Rolling Updates
 
+Auto-Scaling (HPA)
 
-## 🔁 CI/CD & Automation
+Zero-Downtime Releases
 
-- GitHub Actions (CI Pipelines)
-- Jenkins Declarative Pipelines
-- Docker Image Build & Push
-- Kubernetes Deployments
-- GitOps (ArgoCD – learning)
+🔁 CI/CD Automation Flow
+<p align="center"> <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="520"/> </p>
 
----
+Build → Test → Deploy
 
-## 📊 Monitoring & Observability
+Automated Rollbacks
 
-- Prometheus (Metrics)
-- Grafana (Dashboards)
-- AWS CloudWatch
-- Alerting & Incident Response basics
+GitOps-ready Workflows
 
----
+📊 Monitoring & Observability
+<p align="center"> <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="480"/> </p>
 
-## 📊 GitHub Analytics (Live)
+Prometheus Metrics
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mohite2017&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mohite2017&theme=tokyonight&hide_border=true" />
-</p>
+Grafana Dashboards
 
-<p align="center">
-  <img width="60%" src="https://github-readme-activity-graph.vercel.app/graph?username=Mohite2017&theme=tokyo-night&hide_border=true" />
-</p>
+CloudWatch Logs
 
----
+Alerting & Incidents
 
-## 📄 Resume
-
-<p align="center">
-  <a href="https://github.com/Mohite2017/Mohite2017/blob/main/Mohit%20(1).pdf">
-    <img src="https://img.shields.io/badge/View%20Resume-0A66C2?style=for-the-badge&logo=adobeacrobatreader&logoColor=white"/>
-  </a>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohit-meshram-54b5ab378">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:mohitmeshram2021@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohite2017&style=flat-square&color=00F7FF" />
-</p>
-
-<h3 align="center">
-⭐ Thanks for visiting — let’s build scalable systems together
-</h3>
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,100:0A66C2&height=120&section=footer"/>
-</p>
+🚀 Production System in Action
+<p align="center"> <img src="https://media.giphy.com/media/l41lI4bYmcsPJX9Go/giphy.gif" width="360"/> </p> <p align="center"> <sub>Real-time DevOps systems running in production</sub> </p>
