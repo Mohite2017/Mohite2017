@@ -1,3 +1,19 @@
+<table align="center">
+<tr>
+<td align="center"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/><br>AWS</td>
+<td align="center"><img src="https://media.giphy.com/media/xUA7b6G577b74YzDFe/giphy.gif" width="50"/><br>Docker</td>
+<td align="center"><img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50"/><br>Kubernetes</td>
+<td align="center"><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="50"/><br>Linux</td>
+<td align="center"><img src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif" width="50"/><br>CI/CD</td>
+</tr>
+<tr>
+<td align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"/><br>Terraform</td>
+<td align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"/><br>Jenkins</td>
+<td align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50"/><br>Ansible</td>
+<td align="center"><img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="50"/><br>Prometheus</td>
+<td align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/><br>Grafana</td>
+</tr>
+</table>
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
 </p>
@@ -125,7 +141,40 @@
 
 ---
 
-## 🎯 Career Objective (Recruiter-Friendly)
+## 🎯 Career Objective (Recruiter-Friendly)## 🛠️ DevOps Tools & Technologies (Animated)
+
+<p align="center">
+  <!-- AWS -->
+  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" title="AWS"/>
+  
+  <!-- Docker -->
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NqNHY2M25oN3Rjb2N4NnN6MTRhZ3M3eXJ5c3JzY29qbnF2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7b6G577b74YzDFe/giphy.gif" width="60" title="Docker"/>
+
+  <!-- Kubernetes -->
+  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" title="Kubernetes"/>
+
+  <!-- Linux -->
+  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="60" title="Linux"/>
+
+  <!-- GitHub Actions -->
+  <img src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif" width="60" title="CI/CD"/>
+
+  <!-- Terraform -->
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60" title="Terraform"/>
+
+  <!-- Jenkins -->
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60" title="Jenkins"/>
+
+  <!-- Ansible -->
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" title="Ansible"/>
+
+  <!-- Prometheus -->
+  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" title="Prometheus"/>
+
+  <!-- Grafana -->
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" title="Grafana"/>
+</p>
+
 
 Seeking a **DevOps / Cloud Engineer role** to:
 - Automate infrastructure & deployments
