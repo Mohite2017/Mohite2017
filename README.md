@@ -32,16 +32,13 @@ DevOps Engineer | Cloud | Automation
 ---
 
 ## ⚙️ DevOps Workflow (Real-Time Architecture)
+
 <p align="center">
-  <img src="https://svg-banners.vercel.app/api?type=origin&text1=CI%20%2F%20CD%20Pipeline&text2=Code%20→%20Build%20→%20Deploy%20→%20Monitor&width=900&height=180" />
+  <img src="devops-realtime.svg" width="1000"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Mohite2017&theme=tokyo-night&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900"/>
+  <sub>Real-time CI/CD pipeline with live data flow & monitoring heartbeat</sub>
 </p>
 
 
