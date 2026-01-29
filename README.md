@@ -1,202 +1,105 @@
-<table align="center">
-<tr>
-<td align="center"><img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="50"/><br>AWS</td>
-<td align="center"><img src="https://media.giphy.com/media/xUA7b6G577b74YzDFe/giphy.gif" width="50"/><br>Docker</td>
-<td align="center"><img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="50"/><br>Kubernetes</td>
-<td align="center"><img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="50"/><br>Linux</td>
-<td align="center"><img src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif" width="50"/><br>CI/CD</td>
-</tr>
-<tr>
-<td align="center"><img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50"/><br>Terraform</td>
-<td align="center"><img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="50"/><br>Jenkins</td>
-<td align="center"><img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50"/><br>Ansible</td>
-<td align="center"><img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="50"/><br>Prometheus</td>
-<td align="center"><img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50"/><br>Grafana</td>
-</tr>
-</table>
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600"/>
-</p>
-
-<h1 align="center">👋 Hi, I'm Mohit Harichand Meshram</h1>
-<h3 align="center">🚀 DevOps Engineer | AWS | Kubernetes | CI/CD | Automation</h3>
+<h1 align="center">Hi there 👋, I'm Mohit Meshram</h1>
+<h3 align="center">Aspiring DevOps Engineer | Cloud | Automation</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mohite2017&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Mohite2017?label=Followers&style=social" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+GitHub+Actions;Cloud+Automation+%7C+Monitoring" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?logo=amazonaws"/>
-  <img src="https://img.shields.io/badge/Docker-Container-blue?logo=docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-Orchestration-blue?logo=kubernetes"/>
-  <img src="https://img.shields.io/badge/Linux-Server-black?logo=linux"/>
-  <img src="https://img.shields.io/badge/GitHub_Actions-CI/CD-black?logo=githubactions"/>
+  <img src="profile.png" width="170" style="border-radius:50%; border:3px solid #00ADB5;" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## 🚀 About Me
 
-💡 Passionate **DevOps Engineer** focused on **cloud infrastructure, automation, and scalable systems**.
+💡 AWS Cloud & DevOps enthusiast with hands-on experience in **cloud infrastructure, CI/CD pipelines, containerization, and automation**.  
+🎯 Passionate about building **scalable, secure, and cost-optimized systems**.
 
-- ☁️ Hands-on with **AWS production workloads**
-- ⚙️ Build **CI/CD pipelines** using GitHub Actions & Jenkins
-- 🐳 Containerized apps with **Docker & Kubernetes**
-- 📊 Monitoring using **Prometheus & Grafana**
-- 🧠 Strong Linux & troubleshooting skills
-
-🎯 **Goal:** Build reliable, automated, cloud-native systems.
+- ☁️ AWS (EC2, EKS, RDS, VPC, IAM, Lambda)
+- ⚙️ CI/CD using Jenkins & GitHub Actions
+- 🐳 Docker & Kubernetes (EKS)
+- 📦 Infrastructure as Code (Terraform, CloudFormation)
+- 📊 Monitoring: Prometheus, Grafana, CloudWatch
+- 🧠 Always learning & improving DevOps practices
 
 ---
 
-## 🔥 DevOps in Action (Animated)
+## 🛠️ Tech Stack & Tools
 
 <p align="center">
-  <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="500"/>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1rY3d1d2o3bW1nZ3ZsOXQ2ZXh6YjZlYWRzNjZ6dDV2M2R5YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
+  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,git,github,githubactions,jenkins,nginx,python,bash" />
 </p>
 
 ---
 
-## 🛠️ DevOps Tech Stack
-
-### ☁️ Cloud
-- AWS (EC2, S3, IAM, VPC, ALB, ASG, CloudWatch)
-
-### 🐳 Containers & Orchestration
-- Docker
-- Kubernetes (EKS)
-
-### ⚙️ CI/CD
-- GitHub Actions
-- Jenkins
-
-### 🖥️ OS & Scripting
-- Linux (Amazon Linux, Ubuntu)
-- Bash / Shell
-- Python (automation basics)
-
-### 📊 Monitoring
-- Prometheus
-- Grafana
-- Node Exporter
-
-### 🧰 Infrastructure as Code
-- Terraform
-- Ansible
-
----
-
-## ☁️ AWS Architecture (Real-World)
+## 🔄 CI/CD & DevOps Tools
 
 <p align="center">
-  <img src="https://d1.awsstatic.com/architecture-diagrams/ArchitectureDiagrams/web-application-hosting-on-aws.png" width="700"/>
+  <img src="https://img.shields.io/badge/Jenkins-CI/CD-red?style=for-the-badge&logo=jenkins"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-Automation-blue?style=for-the-badge&logo=githubactions"/>
+  <img src="https://img.shields.io/badge/ArgoCD-GitOps-orange?style=for-the-badge&logo=argo"/>
 </p>
 
-✔️ Load Balancer  
-✔️ Auto Scaling Group  
-✔️ Multi-AZ EC2  
-✔️ Secure VPC  
-✔️ CloudWatch Monitoring  
+---
+
+## 📂 Featured Projects
+
+🔹 **End-to-End CI/CD Pipeline**
+- Jenkins pipeline with build, test, scan & deploy
+- Dockerized app deployed to Kubernetes via ArgoCD
+
+🔹 **AWS Three-Tier Architecture**
+- VPC, EC2, ALB, Route53 using Terraform
+- Secure & scalable infrastructure
+
+🔹 **Cost Optimization Automation**
+- Lambda + CloudWatch alerts
+- Reduced AWS cost by ~25%
 
 ---
 
-## 📂 Featured DevOps Projects
+## 📄 Resume
 
-### 🔹 Google Store – DevOps Project
-🔗 https://github.com/abinashkumar19/google-store-DevOps-project  
-
-**Tech Used:**  
-`AWS · Docker · GitHub Actions · Nginx · Linux`
-
-✔️ CI/CD pipeline  
-✔️ Dockerized application  
-✔️ GitHub Pages hosting  
-✔️ Production-style deployment  
-
----
-
-## 🚦 CI/CD & Workflow Status
-
-![CI](https://img.shields.io/badge/CI-GitHub_Actions-success?logo=githubactions)
-![Docker](https://img.shields.io/badge/Docker-Build-blue?logo=docker)
-![AWS](https://img.shields.io/badge/AWS-Deployed-orange?logo=amazonaws)
-![Linux](https://img.shields.io/badge/Linux-Production-black?logo=linux)
+<p align="center">
+  <a href="Mohit (1).pdf">
+    <img src="https://img.shields.io/badge/Download%20Resume-PDF-green?style=for-the-badge&logo=adobeacrobatreader"/>
+  </a>
+</p>
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohite2017&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohite2017&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohite2017&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohite2017&theme=tokyonight" />
 </p>
-
----
-
-## 🎯 Career Objective (Recruiter-Friendly)## 🛠️ DevOps Tools & Technologies (Animated)
 
 <p align="center">
-  <!-- AWS -->
-  <img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="60" title="AWS"/>
-  
-  <!-- Docker -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2NqNHY2M25oN3Rjb2N4NnN6MTRhZ3M3eXJ5c3JzY29qbnF2bCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xUA7b6G577b74YzDFe/giphy.gif" width="60" title="Docker"/>
-
-  <!-- Kubernetes -->
-  <img src="https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif" width="60" title="Kubernetes"/>
-
-  <!-- Linux -->
-  <img src="https://media.giphy.com/media/l0HlNQ03J5JxX6lva/giphy.gif" width="60" title="Linux"/>
-
-  <!-- GitHub Actions -->
-  <img src="https://media.giphy.com/media/kE6xCyOOHoxlS/giphy.gif" width="60" title="CI/CD"/>
-
-  <!-- Terraform -->
-  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="60" title="Terraform"/>
-
-  <!-- Jenkins -->
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="60" title="Jenkins"/>
-
-  <!-- Ansible -->
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="60" title="Ansible"/>
-
-  <!-- Prometheus -->
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="60" title="Prometheus"/>
-
-  <!-- Grafana -->
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="60" title="Grafana"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohite2017&layout=compact&theme=tokyonight" />
 </p>
 
+---
 
-Seeking a **DevOps / Cloud Engineer role** to:
-- Automate infrastructure & deployments
-- Improve system reliability
-- Work on scalable cloud platforms
-- Contribute to real production systems
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohit-meshram-54b5ab378">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:mohitmeshram2021@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
 
 ---
 
-## 📫 Connect With Me
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohite2017&style=for-the-badge&color=blue"/>
+</p>
 
-- 🔗 GitHub: https://github.com/Mohite2017  
-- 💼 LinkedIn: *(add your LinkedIn URL)*  
-- 📧 Email: *(add your professional email)*  
-
----
-
-## ⭐ Support
-
-If you like my work:
-- ⭐ Star repositories  
-- 👤 Follow my GitHub profile  
-
-> *“Automation is not a tool, it’s a mindset.”*
-
+<h3 align="center">⭐ Thanks for visiting — Let's build scalable systems together!</h3>
