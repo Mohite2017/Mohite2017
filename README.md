@@ -38,6 +38,13 @@
 <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="80"/>
 <img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif" height="80"/>
 </p>
+<p align="right">
+  <img
+    src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif"
+    width="420"
+    alt="Developer working illustration"
+  />
+</p>
 
 ## 🥃 Monitoring Tools 
 
