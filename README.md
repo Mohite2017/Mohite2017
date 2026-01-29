@@ -34,11 +34,7 @@ DevOps Engineer | Cloud | Automation
 ## ⚙️ DevOps Workflow (Real-Time Architecture)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="900"/>
-</p>
-
-<p align="center">
-  <sub>Live pipeline activity visualization</sub>
+  <img src="https://github.com/ashutosh00710/github-readme-activity-graph/blob/master/graph.svg?username=Mohite2017&theme=tokyo-night" />
 </p>
 
 ---
