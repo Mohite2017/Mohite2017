@@ -89,8 +89,6 @@
 - 📧 **Email**: mohitmeshram.dev@gmail.com
 - 💻 **GitHub**: https://github.com/Mohite2017
 
----
-
 <div align="center">
 
 ### ⭐ Show some ❤️ by starring repositories
@@ -100,6 +98,6 @@
 </a>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi%2CThere+I'm+Mohit+Meshram;I+hope+you're+doing+well;Enjoy+your+time+%3A)" alt="Typing SVG" /></a>
 
-![VisitorCount](https://profile-counter.glitch.me/Mohite2017/count.svg)
+
 
 #### Thanks for visiting ❤️
