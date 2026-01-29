@@ -1,110 +1,99 @@
-<h1 align="center">Hi there 👋, I'm Mohit</h1>
+# 👨‍💻 Mohit Harichand Meshram  
+### 🚀 DevOps Engineer | Cloud & Automation Enthusiast
 
-<p align="center">
-  DevOps Engineer | Cloud | Automation
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+%7C+Terraform+%7C+Monitoring;Building+Reliable+Cloud+Systems" />
-</p>
+![DevOps Banner](https://img.shields.io/badge/DevOps-AWS%20%7C%20Docker%20%7C%20Kubernetes-blue)
+![Profile Views](https://komarev.com/ghpvc/?username=Mohite2017&label=Profile%20Views&color=0e75b6&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/Mohite2017?label=Followers&style=social)
 
 ---
 
-<table>
-<tr>
-<td width="60%">
+## 🧑‍💼 About Me
 
-### 👨‍💻 About Me
+Hi 👋 I'm **Mohit**, a passionate **DevOps Engineer** focused on building **scalable, automated, and cloud-native infrastructure**.
 
-I’m a **DevOps / Cloud Engineer** focused on building  
-**scalable, automated, production-ready systems**.
-
-- ☁️ AWS Cloud & Infrastructure  
-- 🐳 Docker & Kubernetes  
-- ⚙️ CI/CD (GitHub Actions, Jenkins)  
-- 📊 Monitoring (Prometheus, Grafana)  
-- 🚀 Automation & Reliability  
-
-</td>
-
-<td width="40%" align="center">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260"/>
-
-</td>
-</tr>
-</table>
+🔹 Strong hands-on experience with **AWS, Linux, CI/CD, Docker, Kubernetes**  
+🔹 Interested in **Cloud Automation, Monitoring & DevSecOps**  
+🔹 Actively building **real-world DevOps projects**
 
 ---
 
-## ⚙️ Skills
+## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,linux,docker,kubernetes,terraform,ansible,git,github,githubactions,jenkins,nginx,python&theme=dark" />
-</p>
+### ☁️ Cloud
+- AWS (EC2, S3, IAM, VPC, ASG, ALB, CloudWatch)
 
----
+### 🐳 Containers & Orchestration
+- Docker
+- Kubernetes (EKS, K8s Architecture)
 
-## 🔄 DevOps Workflow
+### ⚙️ CI/CD
+- GitHub Actions
+- Jenkins
+- GitLab CI/CD
 
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif" width="600"/>
-</p>
+### 🖥️ OS & Scripting
+- Linux (Amazon Linux, Ubuntu)
+- Shell Scripting
+- Python (Basics)
 
-<p align="center">
-  Code → Build → Test → Deploy → Monitor
-</p>
+### 📊 Monitoring & Logging
+- Prometheus
+- Grafana
+- Node Exporter
 
----
-
-## 🚢 CI/CD & Automation
-
-<p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="520"/>
-</p>
-
-- GitHub Actions pipelines  
-- Jenkins automation  
-- Docker image builds  
-- Kubernetes deployments  
+### 🧰 IaC & Config Management
+- Terraform
+- Ansible
 
 ---
 
-## 📊 Monitoring & Observability
+## 📂 Featured DevOps Projects
 
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif" width="520"/>
-</p>
+### 🔹 Google Store DevOps Project
+🔗 Repo: https://github.com/abinashkumar19/google-store-DevOps-project  
 
-- Prometheus metrics  
-- Grafana dashboards  
-- AWS CloudWatch  
+**Tech Used:**  
+`AWS | Docker | GitHub Actions | Nginx | Linux`
+
+✔️ CI/CD Pipeline  
+✔️ Static Hosting with GitHub Pages  
+✔️ Dockerized Application  
+
+---
+
+### 🔹 Full Stack DevOps Deployment
+**Backend:** Django  
+**Frontend:** React (Vite)  
+
+✔️ CI/CD with GitHub Actions  
+✔️ Docker Compose  
+✔️ Nginx Reverse Proxy  
 
 ---
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohite2017&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohite2017&theme=tokyonight" />
-</p>
+![Mohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohite2017&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohite2017&layout=compact&theme=radical)
 
 ---
 
-## 🔗 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohit-meshram-54b5ab378">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:mohitmeshram2021@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+## 📜 Certifications (Optional)
+- AWS Cloud Practitioner (Preparing)
+- Linux Fundamentals
 
 ---
 
-<h3 align="center">Thanks for visiting 🚀</h3>
+## 📫 Connect With Me
+
+- 🔗 GitHub: https://github.com/Mohite2017
+- 💼 LinkedIn: *(Add your LinkedIn link here)*
+- 📧 Email: *(Add your email here)*
+
+---
+
+## ⭐ Support
+
+If you like my work, please ⭐ star the repositories and follow me!
+
+> *“Automate everything that can be automated.”*
