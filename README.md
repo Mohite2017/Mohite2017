@@ -1,237 +1,106 @@
-<!DOCTYPE html>
-<html lang="en">
+<h3 align="center">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Mohit+Meshram;DevOps+%7C+Cloud+Engineer;Welcome+to+my+GitHub+Profile+🚀" />
+</a>
+</h3>
 
-    <head>
-        <meta charset="utf-8" />
-        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
-        <meta name="description" content="" />
-        <meta name="author" content="" />
-        <title>Rushikesh Mashidkar</title>
-        <!-- Font Awesome icons (free version)-->
-        <script src="https://use.fontawesome.com/releases/v6.1.0/js/all.js" crossorigin="anonymous"></script>
-        <!-- Google fonts-->
-        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css" />
-        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css" />
-        <!-- Core theme CSS (includes Bootstrap)-->
-        <link href="https://github.com/RishikeshOps/RishikeshOps.github.io/blob/main/style.css" rel="stylesheet" />
-        <!-- Link to remove random 403 error that shows in web browser -->
-        <link rel="shortcut icon" href="favicon.ico"/>
-        <!-- Link to local css stylesheet -->
-        <link href="./style.css" rel="stylesheet" />
-    </head> 
-    <body id="page-top">
-        <!-- Navigation-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
-            <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                <span class="d-block d-lg-none">Rushikesh Mashidkar</span>
-                <span class="d-none d-lg-block"><img class="img-circle img-profile rounded-circle" src="https://avatars.githubusercontent.com/u/115981550?v=4" alt="..." /></span>
-            </a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-            <div class="collapse navbar-collapse" id="navbarResponsive">
-                <ul class="navbar-nav">
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#about">About</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#experience">Volunteering Experience</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#education">Education</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#skills">Skills</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#certifications">Certifications</a></li>
-                    <li class="nav-item"><a class="nav-link js-scroll-trigger" href="#projects">Projects</a></li>
-                </ul>
-            </div>
-        </nav>
-        <!-- Page Content-->
-        <div class="container-fluid p-0">
-            <!-- About-->
-            <section class="resume-section" id="about">
-                <div class="resume-section-content">
-                    <h1 class="mb-0">
-                        Rushikesh
-                        <span class="text-primary">Mashidkar</span>
-                    </h1>
-                    <div class="subheading mb-5">
-                        Pune, Maharashtra 
-                        <a href="mailto:rishikeshmashidkar@gmail.com">rishikeshmashidkar@gmail.com</a>
-                    </div>
-                    <p class="lead mb-5">Hello, I'm Rushikesh, a DevOps Engineer who enjoys automation, continuous integration, and deployment. With extensive experience in DevOps and Cloud Computing, I am proficient in various tools and technologies related to infrastructure automation, containerization, cloud platforms, monitoring and logging, and CI/CD. My ultimate objective is to assist organizations in achieving quicker, more effective software delivery while maintaining high levels of quality and dependability.
-                    </p>
-                    <div class="social-icons">
-                        <a class="social-icon" href="https://www.linkedin.com/in/rushikesh-mashidkar-cloud-devops/"><i class="fab fa-linkedin-in"></i></a>
-                        <a class="social-icon" href="https://github.com/RishikeshOps"><i class="fab fa-github"></i></a>
-                        <div class="d-flex flex-column flex-md-row justify-content-between mb-5"></div>
-                        <br>
-                        <span id="hits"></span>
-                </div>
-            </section>
-        </div>
-        <!-- Bootstrap core JS-->
-        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
-                    </div>    
-                </div>
-            </section>
-            <hr class="m-0" />
-            <!-- Experience-->
-            <section class="resume-section" id="experience">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Volunteering Experience</h2>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Community Leads</h3>
-                            <div class="subheading mb-3">TrainWithShubham</div>
-                            <p>Trainwithshubham is a lively and exciting community dedicated to learning about DevOps. As a DevOps community lead, I will be able to collaborate with a talented group of people who are enthusiastic about software development and IT operations. I will be in charge of organising events and engaging with members in order to create a supportive and collaborative learning environment.
+<p align="center">
+<samp>
+Hey 👋, My name is <em><b>Mohit Meshram</b></em> and I am a <b>DevOps ⚙️ Engineer</b> passionate about building scalable, reliable, and automated cloud infrastructure.
+<br/><br/>
+I specialize in <b>AWS, Kubernetes, CI/CD pipelines, Infrastructure as Code, and Monitoring</b>.
+I constantly explore modern DevOps practices to optimize deployments, improve reliability, and accelerate delivery. 🤖
+</samp>
+</p>
 
-                                Skills Learned : Linux, DevOps, Continuous Integration and Continuous Delivery (CI/ CD), Shell Scripting, Amazon Web Services (AWS) Cloud Computing, Jenkins, Ansible Prometheus, Kubernetes & Docker
-                                
-                                I am proud of my ability to motivate community members to participate and form meaningful relationships. I hope to share my knowledge and expertise through my work while also learning from others. I believe that my contributions help to shape the community's direction and contribute to its growth and success.</p>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">November 2022 - Present</span></div>
-                    </div>
-                </div>
-            </section>
-            <hr class="m-0" />
-            <!-- Education-->
-            <section class="resume-section" id="education">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Education</h2>
-                    <div class="d-flex flex-column flex-md-row justify-content-between mb-5">
-                        <div class="flex-grow-1">
-                            <h3 class="mb-0">Gondwana University</h3>
-                            <div class="subheading mb-3">Bachelor of Commerce (I. T.)</div>
-                            <div>Cloud Computing</div>
-                        </div>
-                        <div class="flex-shrink-0"><span class="text-primary">August 2019 - August 2022</span></div>
-                    </div>
-                </div>
-            </section>
-            <hr class="m-0" />
-            <!-- Skills-->
-            <section class="resume-section" id="skills">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Skills</h2>
-                    <div class="subheading mb-3">📚 𝗧𝗘𝗖𝗛 𝗦𝗧𝗔𝗖𝗞 </div>
-                    <p>
-                        <a href="https://skillicons.dev">
-                          <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,jenkins,github,githubactions,git,ansible,docker,linux,py,nginx,bash,grafana,prometheus,postman&perline=8" />
-                        </a>
-                      </p>
-                    </ul>
-                    <div class="subheading mb-3">Passionate About</div>
-                    <ul class="fa-ul mb-0">
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            AWS & Google Cloud Platform & Multi-Tier Architecture
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Infrastructure as Code such as: Terraform, Ansible, Docker, Kubernetes, Serverless
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Automation and deployments with the CI/CD Pipeline
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            DevOps Culture - Continuous Integration, Continuous Delivery, Continuous Deployment
-                        </li>
-                    </ul>
-                    <div class="subheading mb-3">Proficient In</div>
-                    <ul class="fa-ul mb-0">
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Jenkins
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Python
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            AWS DevOps
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-check"></i></span>
-                            Networking & Security
-                        </li>
-                </div>
-            </section>
-            <hr class="m-0" />
-            <!-- Certifications-->
-            <section class="resume-section" id="certifications">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Certifications</h2>
-                    <ul class="fa-ul mb-0">
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            Batch II - Advance DevOps - Zero to Hero (Dec'22)
-                        </li>
-                        <li>
-                            <span class="fa-li"><i class="fas fa-trophy text-warning"></i></span>
-                            AWS Certified Solutions Architect-Associate (In Progress, March 2023)
-                        </li>
-                </div>
-            </section>
-            <hr class="m-0" />
-            <!-- Projects-->
-            <section class="resume-section" id="projects">
-                <div class="resume-section-content">
-                    <h2 class="mb-5">Projects</h2>
-                    <ul class="fa-ul mb-0">
-                        <li><b>Automating Deployment of a Reddit-Clone Application on
-                            AWS EKS with Terraform
-                        </b></li>
-                        <p>❖ In the 'Deploying Reddit-Clone on EKS using Terraform'
-                            project, I utilized a variety of tools and technologies to
-                            deploy a Reddit-clone application on Amazon Web Services'
-                            Elastic Kubernetes Service (EKS).<br>
+---
 
-                            ❖ This included writing Dockerfiles to containerize the
-                            application and Kubernetes deployment files to define how
-                            the application should be deployed on the EKS cluster.<br>
+<p align="center">
+<a href="https://git.io/streak-stats">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Mohite2017&theme=algolia" />
+</a>
+</p>
 
-                            ❖ I then used Terraform to automate the provisioning and
-                            management of the EKS cluster and deployment of the
-                            application.<br>
+<img align="right" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="300"/>
 
-                            ❖ This project resulted in a scalable and reliable deployment
-                            of the Reddit-clone application on AWS EKS..</p>
-                    </ul>
-                    <ul class="fa-ul mb-0">
-                        <li><b>Automating Deployment of a Reddit-Clone Application on
-                            AWS EKS with Terraform</b>
+---
 
-                            02-2023 – present</li>
-                        <p> ❖ In the 'Deploying Reddit-Clone on EKS using Terraform'
-                            project, I utilized a variety of tools and technologies to
-                            deploy a Reddit-clone application on Amazon Web Services'
-                            Elastic Kubernetes Service (EKS).<br>
-                            ❖ This included writing Dockerfiles to containerize the
-                            application and Kubernetes deployment files to define how
-                            the application should be deployed on the EKS cluster.<br>
-                            ❖ I then used Terraform to automate the provisioning and
-                            management of the EKS cluster and deployment of the
-                            application.<br>
-                            ❖ This project resulted in a scalable and reliable deployment
-                            of the Reddit-clone application on AWS EKS..</p>
-                    </ul> 
-                    <ul class="fa-ul mb-0">
-                        <li><b>Building and Managing a Scalable and Reliable Kubernetes
-                            Cluster on AWS for Deploying a Django and React ( To-Do )
-                            Application</b> (01-2023 – 01-2023) <a href="https://github.com/RishikeshOps/3d-webapp-Kubernetes">GitHub</a></li>
-                        <p> ❖ Built and managed a Kubernetes cluster on AWS from
-                            scratch, using Minikube to create a highly reliable and
-                            scalable platform for deploying a Django and React
-                            application.<br>
-                            ❖ Utilized Docker containers to package the application and
-                            managed the deployment, replication, and auto scaling of
-                            the containers in the Kubernetes cluster.<br>
-                            ❖ Implemented network and service management strategies
-                            to ensure the efficient and seamless operation of the
-                            application, resulting in improved efficiency and reliability.
-                           
-                        </p>
-                    </ul>
-                </div>
-            </section>
-        </div>
-    </body>
-    <!-- Link JavaScript file -->
-    <script src="https://github.com/RishikeshOps/RishikeshOps.github.io/blob/main/script.js"></script>
-</html>
+## ⚡ Skills & Tools
+
+<p align="left">
+<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" height="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="70"/>
+<img src="https://static-00.iconduck.com/assets.00/google-cloud-icon-2048x1646-7admxejz.png" height="70"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" height="75"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/docker.gif" height="80"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/k8s.gif" height="80"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/helm.gif" height="80"/>
+<img src="https://coralogix.com/wp-content/uploads/2021/06/Argo-CD-Version-Tags-1000X1000.png" height="80"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/cicd.gif" height="80"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/terraform.gif" width="120"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" height="80"/>
+<img src="https://media.giphy.com/media/kH1DBkPNyZPOk0BxrM/giphy.gif" width="80"/>
+<img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" height="80"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/golang.gif" height="80"/>
+</p>
+
+---
+
+### 📊 Monitoring & Observability
+
+<p>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/grafana.gif" height="80"/>
+<img src="https://raw.githubusercontent.com/itsksaurabh/itsksaurabh/master/assets/prometheus.gif" height="80"/>
+</p>
+
+---
+
+## 📊 GitHub Stats (Expand)
+
+<details>
+<summary><b>💻 GitHub Profile Stats</b></summary>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Mohite2017&theme=2077"/>
+
+</details>
+
+<details>
+<summary><b>📈 Top Languages</b></summary>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mohite2017&theme=aura"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mohite2017&theme=aura"/>
+
+</details>
+
+<details>
+<summary><b>📊 Contribution Graph</b></summary>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mohite2017&theme=great_gatsby"/>
+
+</details>
+
+---
+
+## 📫 How to reach me?
+
+- 🔗 **LinkedIn**: https://www.linkedin.com/in/mohit-meshram-devops/
+- 📧 **Email**: mohitmeshram.dev@gmail.com
+- 💻 **GitHub**: https://github.com/Mohite2017
+
+---
+
+<div align="center">
+
+### ⭐ Show some ❤️ by starring repositories
+
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=28&duration=3000&pause=800&color=60F74D&center=true&vCenter=true&width=500&lines=Thanks+for+visiting!+🚀;You're+Awesome+💚" />
+</a>
+
+</div>
+
+---
+
+![VisitorCount](https://profile-counter.glitch.me/Mohite2017/count.svg)
+
+#### Thanks for visiting ❤️
