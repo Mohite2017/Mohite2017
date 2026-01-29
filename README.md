@@ -11,7 +11,7 @@
 
  <p align="center" >
   <samp>
-    Hey, My name is <em>Mohit Meshram</em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
+    Hey, My name is <em>Mohit Meshram</em> and I am a DevOps / Cloud Engineering fresher with a strong interest in building reliable, scalable, and automated software delivery pipelines. I have hands-on experience with cloud platforms, containerization, CI/CD, and infrastructure automation, gained through real-time projects and practical training.🤖 :)
   </samp>
   <br/>
 </p>
