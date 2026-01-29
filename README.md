@@ -9,11 +9,7 @@
   />
 </p>
 
-  <h3 align="center">
-<img src="font=monoscope&weight=500&size=30&duration=3000&pause=800&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Mohit+Meshram;DevOps+%7C+Cloud+Engineer;Welcome+to+my+GitHub+Profile+🚀" />
-</h3>
-
-<p align="center" >
+ <p align="center" >
   <samp>
     Hey, My name is <em>Mohit Meshram</em> and I am a DevOps⚙️ Engineer who is deeply committed to improving the efficiency and effectiveness of software development and deployment processes. My extensive knowledge of cloud computing, containerization, and automation enables me to drive innovation and deliver high-quality results. I remain dedicated to continuously expanding my skills by staying up-to-date with the latest DevOps tools and methodologies, and I'm always looking for new ways to optimize workflows and improve software delivery.🤖 :)
   </samp>
